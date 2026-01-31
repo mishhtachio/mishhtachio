@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building fun game ideas<br>🌱 I’m currently learning godot game engine + frontend stu
+🔭 I’m currently working on building fun game ideas<br>🌱 I’m currently learning godot game engine + frontend stuff
 
 
 ## 🌐 Socials:
