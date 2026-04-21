@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building fun game ideas<br>🌱 Tryna learn the godot game engine + frontend stuff
+🔭 I’m currently working on building fun game ideas (probably) <br>🌱 Tryna learn the godot game engine + app dev stuff
 
 
 ## 🌐 Socials:
