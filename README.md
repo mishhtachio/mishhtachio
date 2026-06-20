@@ -1,7 +1,7 @@
 <samp>
-mishel  \  20  \  CSE undergad
+<strong> mishel  \  20  \  CSE undergad
 
-web dev  \  app dev  \  game dev
+web dev  \  app dev  \  game dev </strong>
 
 python | HTML | CSS | C | C++ | javascript | typescript | dart
 
